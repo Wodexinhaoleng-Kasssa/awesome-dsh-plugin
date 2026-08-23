@@ -13,6 +13,10 @@
   "https://raw.githubusercontent.com/lavapapa/dsh-composer-layout/main/assets/screenshots/hero-en.png",
   "https://raw.githubusercontent.com/lavapapa/dsh-composer-layout/main/assets/screenshots/hero-zh.png"
  ],
+ "https://github.com/lengzhanbao/dsh-taffy-theme": [
+  "https://raw.githubusercontent.com/lengzhanbao/dsh-taffy-theme/master/preview/light.webp",
+  "https://raw.githubusercontent.com/lengzhanbao/dsh-taffy-theme/master/preview/dark.webp"
+ ],
  "https://github.com/Little-Star888/dsh-pelican": [
   "https://raw.githubusercontent.com/Little-Star888/dsh-pelican/main/assets/screenshot-1.png"
  ],
@@ -1167,6 +1171,9 @@
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-chat.png",
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-feedback.png"
  ],
+ "https://github.com/jhuanxx44/dsh-sseye": [
+  "https://raw.githubusercontent.com/jhuanxx44/dsh-sseye/main/assets/panel-detail.png"
+ ],
  "https://github.com/wyzh0117/dsh-skill-select": [
   "https://raw.githubusercontent.com/wyzh0117/dsh-skill-select/main/assets/product.png",
   "https://raw.githubusercontent.com/wyzh0117/dsh-skill-select/main/assets/better-sidebar.png"
@@ -1185,5 +1192,10 @@
  ],
  "https://github.com/FeiZhuNiU-INFJA/dsh-stock-ticker": [
   "https://raw.githubusercontent.com/FeiZhuNiU-INFJA/dsh-stock-ticker/main/assets/screenshot.png"
+ ],
+ "https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts": [
+  "https://raw.githubusercontent.com/ppy-web/dsh-plugin-xiaomi-mimo-tts/main/assets/menu.png",
+  "https://raw.githubusercontent.com/ppy-web/dsh-plugin-xiaomi-mimo-tts/main/assets/preset.png",
+  "https://raw.githubusercontent.com/ppy-web/dsh-plugin-xiaomi-mimo-tts/main/assets/image.png"
  ]
 }
